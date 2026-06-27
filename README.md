@@ -34,9 +34,9 @@ screenshots/img_02.png
 
 Then display it using:
 
-```markdown
+
 ![Dashboard Preview](screenshots/img_02.png)
-```
+
 
 ---
 
