@@ -35,9 +35,7 @@ screenshots/img_02.png
 Then display it using:
 
 ```markdown
-<p align="center">
-<img src="screenshots/img_02.png" width="100%">
-</p>
+![Dashboard Preview](screenshots/img_02.png)
 ```
 
 ---
