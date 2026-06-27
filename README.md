@@ -36,7 +36,7 @@ Then display it using:
 
 ```markdown
 <p align="center">
-<img src="screenshots/dashboard_preview.png" width="100%">
+<img src="screenshots/img_02.png" width="100%">
 </p>
 ```
 
