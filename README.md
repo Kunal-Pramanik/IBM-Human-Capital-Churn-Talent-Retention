@@ -29,7 +29,7 @@ The solution follows enterprise dashboard design principles inspired by consulti
 > Place your generated dashboard image in:
 
 ```
-screenshots/dashboard_preview.png
+screenshots/img_02.png
 ```
 
 Then display it using:
